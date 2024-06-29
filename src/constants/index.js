@@ -232,7 +232,7 @@ import {
         },
       ],
       image: dashu,
-      source_code_link: "https://github.com/PrateekParmar01/DashB",
+      source_code_link: "https://dash-b.vercel.app/",
     },
 
     {
